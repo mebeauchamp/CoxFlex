@@ -1,2 +1,20 @@
 # CoxFlex
 R program for flexible Cox model including non-linear (NL) and/or time-dependent (TD) effects
+## Description
+Original code developed by Willy Wynant. Subsequent corrections and modifications made by Yishu Wang. Latest modifications and corrections by Marie-Eve Beauchamp (since September 2018).
+
+Date of last major update: February 26, 2018 
+Last update: March 25, 2020
+
+For questions or comments about the code contact Marie-Eve Beauchamp (marie-eve.beauchamp at rimuhc.ca).
+
+Reference:
+Wynant W, Abrahamowicz M. Impact of the model building strategy on the inference about time-dependent and non-linear covariate effects in survival analysis. Stat Med 2014;33(19):3318-3337.
+
+## Content
+### CoxFlex - 20200324 - to share.R
+R program including CoxFlex and related functions.
+###Tutorial - How to fit a flexible model in R with CoxFlex.pdf
+Tutorial, with an example, of how to use the R program.
+###dat.RData
+Dataset used as the example in the tutorial.
