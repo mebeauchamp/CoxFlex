@@ -16,7 +16,7 @@ Wynant W, Abrahamowicz M. Impact of the model building strategy on the inference
 R program including CoxFlex and related functions.
 
 #### `Tutorial - How to fit a flexible model in R with CoxFlex.pdf`
-Tutorial, with an example, of how to use the R program.
+Tutorial on how to use the R program, with a detailed example.
 
 #### `dat.RData`
-Dataset used as the example in the tutorial.
+Dataset used for the example in the tutorial.
