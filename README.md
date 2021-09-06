@@ -1,5 +1,5 @@
 # CoxFlex
-R program for flexible Cox model including non-linear (NL) and/or time-dependent (TD) effects
+R program for estimating flexible Cox models including non-linear (NL) and/or time-dependent (TD) effects
 ## Description
 Original code developed by Willy Wynant. Subsequent corrections and modifications made by Yishu Wang. Latest modifications and corrections by Marie-Eve Beauchamp (since September 2018).
 
@@ -14,7 +14,9 @@ Wynant W, Abrahamowicz M. Impact of the model building strategy on the inference
 ## Content
 ### CoxFlex - 20200324 - to share.R
 R program including CoxFlex and related functions.
+
 ###Tutorial - How to fit a flexible model in R with CoxFlex.pdf
 Tutorial, with an example, of how to use the R program.
+
 ###dat.RData
 Dataset used as the example in the tutorial.
