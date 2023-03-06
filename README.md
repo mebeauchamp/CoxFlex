@@ -12,11 +12,8 @@ Reference:
 Wynant W, Abrahamowicz M. Impact of the model building strategy on the inference about time-dependent and non-linear covariate effects in survival analysis. Stat Med 2014;33(19):3318-3337.
 
 ## Content
-#### `CoxFlex - 20200324 - to share.R`
-R program including CoxFlex and related functions.
-
 #### `CoxFlex - 20220330 - to share.R`
-Updated version of R program including CoxFlex and related functions.
+R program including CoxFlex and related functions.
 
 #### `Tutorial - How to fit a flexible model in R with CoxFlex.pdf`
 Tutorial on how to use the R program, with a detailed example.
