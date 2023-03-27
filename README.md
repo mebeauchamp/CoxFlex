@@ -1,7 +1,7 @@
 # CoxFlex
-R script for estimating flexible Cox models including non-linear (NL) and/or time-dependent (TD) effects.
+R code of the CoxFlex function for estimating flexible Cox models including non-linear (NL) and/or time-dependent (TD) effects.
 ## Description
-Original code developed by Willy Wynant. Subsequent corrections and modifications made by Yishu Wang. Latest modifications and corrections by Marie-Eve Beauchamp (since September 2018).
+Original code developed by Willy Wynant. Subsequent corrections and modifications made by Yishu Wang. Latest modifications and corrections made by Marie-Eve Beauchamp (since September 2018).
 
 Date of last major update: February 26, 2018.<br/>
 Last update: March 30, 2022.
@@ -12,10 +12,10 @@ Reference: Wynant W, Abrahamowicz M. Impact of the model building strategy on th
 
 ## Content
 #### `CoxFlex - 20220330 - to share.R`
-R script including CoxFlex and related functions.
+R script of the CoxFlex function and related functions.
 
 #### `Tutorial - How to fit a flexible model in R with CoxFlex.pdf`
-Tutorial on how to use the R functions, with a detailed example.
+Tutorial on how to use the CoxFlex and related functions, with a detailed example.
 
 #### `dat.RData`
 Dataset used for the example in the tutorial.
